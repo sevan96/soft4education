@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Soft4Education
+                    Soft4Education - 2018
                 </div>
 
                 <div class="links">
